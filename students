@@ -1,4 +1,41 @@
 
+### Musa Phiri
+
+Musa Phiri is a PhD candidate in Computer Science at UNSW Canberra, specializing in Deep Transfer Learning. My research focuses on developing a landscape-aware framework for automatic hyperparameter selection, leveraging landscape analysis and optimization techniques to enhance the efficiency and adaptability of transfer learning models.
+
+Musa holds a Master of Science in Data Science and Big Data from Mulungushi University, where his dissertation explored deep hybrid learning models for photovoltaic solar tracking systems, and a Master of Science in Project Management from the University of Zambia, focusing on forecasting methodologies for construction projects. Hw also completed my Bachelor of Science in Statistics at Mulungushi University.
+
+Musa's research experience spans predictive modeling, machine learning, and deep learning applications across NLP, renewable energy, and health domains. He has expertise in both supervised and unsupervised learning, as well as optimization techniques for AI models. His work has resulted in publications in high-impact journals including IEEE Access and Solar Energy, with particular recognition for my systematic literature review on deep learning techniques for solar tracking systems. Beyond research, Musa is passionate about applying AI-driven solutions to real-world challenges and contributing to advancements in deep learning methodologies. 
+
+#### Projects
+Hybrid Deep Learning for Solar Tracking Project | Github
+
+Implemented a deep learning algorithm for solar tracking
+Utilized real-world data from Girasol sky imaging and global solar irradiance repository
+Tabular-to-image-conversion-model-enhanced-solar-tracking Project | Github
+
+Contributed to the development of a model for sun position prediction from meteorological data by integrating tabular to image conversions, spatial feature extraction, and temporal dependencies
+Enhanced solar tracking through multi-based data normalization project | Github
+
+Investigated the use of hybrid deep learning techniques to improve solar tracking for PV solar panels
+The project explored the combination of feature extension using data normalization and feature extraction techniques to enhance solar tracking
+Periodontitis classification project | Github
+
+Successfully implemented a MobileNetV2-based deep learning model for the automatic classification of periodontal and non-periodontal dental panoramic radiographs
+Conducted a comparative analysis against existing CNN-based periodontitis classification models to demonstrate the superior efficiency and speed of the MobileNet V2 model, contributing to advancements in dental image analysis
+
+#### Published Peer-Reviewed Journal Articles
+Mulenga, M., Phiri, M., Simukonda, L., & Alaba F. A. (2023). A Multistage Hybrid Deep Learning Model for Enhanced Solar Tracking. IEEE Access, 11, 129449–129466.
+
+Phiri, M., Mulenga, M., Zimba, A., & Eke, C. I. (2023). Deep learning techniques for solar tracking systems: A systematic literature review, research challenges, and open research directions. Solar Energy, 262, 111803.
+
+Mukupa, G.M., Phiri, M., & Kunda, D. (2018). The Impact of Load Shedding on The Cost of Living: A Zambian Perspective. World Journal of Research and Review 6.
+
+#### Conference Presentations
+Phiri, M., Mulenga, M., Kunda, D., & Alaba, F. A. (2023). A Deep Hybrid Learning Model for Photovoltaic Solar Tracking Systems. Proceedings of International Conference for ICT (ICICT) - Zambia, 5(1), 53–58.
+
+Mulenga, M., Phiri, M., & Simukonda, L. (2023). Feature Enhancement and Chaining of Deep Neural Networks in Colorectal Cancer Classification Based on Gut-Microbiome Data. Proceedings of International Conference for ICT (ICICT) - Zambia, 5(1), 59–63.
+
 
 ### Hassan Wasswa
 Hassan Wasswa is a Ph.D. candidate in Cybersecurity at the University of New South Wales, Canberra, Australia. He holds a B.Sc. in Computer Science from Kyambogo University, Uganda, and an M.Sc. from the University of Malaya, Malaysia. He has held academic roles at the International University of East Africa and the Islamic University in Uganda, and was a research fellow at Texas Tech University, USA, from 2020 to 2022. He has also worked as an AI research consultant at ICT Skills Development Center Ltd in Kampala. His research interests include IoT security, representation learning, image processing, pattern recognition, computer vision, natural language understanding, and information security.
