@@ -2,7 +2,7 @@
 
 I completed a PhD in energy conservation in distributed computing in 2011. From 2011 - 2019  I worked at IBM research as a research staff member and master inventor. There I worked on a huge breadth of projects in areas including: Machine learning, HPC resource allocation, weather modelling, psylid spread modelling, and cyber security. I also produced a fair amount of IP and lead the intellectual property development team for the lab in my capacity as an IBM Master Inventor. 
 
-I am currently a Senior lecturer and Program coordinator for the Masters of Cyber Security) at UNSW @ ADFA. 
+I am currently a Senior lecturer and Program coordinator for the Masters of Cyber Security at UNSW @ ADFA. 
 
 I have a strong record in development, research, and innovation. With proven experience in research and development with a specialised focus in Cyber security, modelling, resource allocation, simulation, and high-performance distributed computing; combined with experience in networking, and systems administration. 
 
