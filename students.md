@@ -1,3 +1,18 @@
+### Harriet Farlow 
+Harriet Farlow is the CEO and Founder of Mileva Security Labs. With a decade of experience at the intersection of AI and cyber security, Harriet is a recognised leader in her field.
+Harriet's journey began at Deloitte Australia, where she specialised in Defence portfolio projects as a Senior Consultant. Her career also spans roles as a Data Scientist at the University of Sydney and as Senior Delivery Lead at a tech education start-up in New York City. She returned to Canberra to work for the Australian Government, where she served at the intersection of data science, cyber security, and national security, eventually becoming an acting Tech Director.
+She holds a degree in Physics and Bio-anthropology, along with a Master's in Cyber Security. In 2021 she commenced a PhD in Machine Learning Security. This is where she encountered AI Security and adversarial machine learning for the first time.
+In 2023, Harriet founded Mileva Security Labs, driven by her mission to raise awareness about AI system vulnerabilities and provide solutions to secure them. Her work ensures that organisations are equipped to defend against threats and protect their AI systems from disruption and compromise.
+She is also a passionate communicator, as the host of The AI Security Podcast, through her YouTube channel HarrietHacks, and as a speaker at BSides and DEF CON.
+ 
+#### Publications:
+ 
+Farlow, Harriet and Edwards, Belinda. "Shining a Light on Encryption Laws." Computer Law & Security Review, vol. 47, 2022, 101693. ScienceDirect, https://doi.org/10.1016/j.clsr.2022.101693.
+Farlow, H., Garrett, M., Mount, G., and Lynar, T. "The Race to Robustness: Exploiting Fragile Models for Urban Camouflage and the Imperative for Machine Learning Security." Proceedings of the IEEE Region 10 Symposium, IEEE, 2023. https://doi.org/10.1109/10223620
+Farlow, H., Garrett, M., Mount, G., and Lynar, T. "Memes in the Machine: Ideological Propagation in Large Language Models." Proceedings of the 15th IEEE International Conference on Cognitive Infocommunications (CogInfoCom), 2024. http://dx.doi.org/10.1109/CogInfoCom63007.2024.10894714
+Farlow, H., Sadhani, T., Garrett, M., Mount, G., and Lynar, T. "Deceive, Disrupt, Disclose: The 3D Model for AI Security." Proceedings of the 18th International Conference on Information Technology and Applications (ICITA), 2024. https://link.springer.com/chapter/10.1007/978-981-96-1758-6_36
+Farlow, H., Garrett, M., Mount, G., and Lynar, T. "Beyond Words: Memetic Theory as a Lens to Expose Ideological Bias in Language Models." Proceedings of the International Conference on Soft Computing & Machine Intelligence (ISCMI), 2024. DOI: 10.1109/ISCMI63661.2024.10851522
+Farlow, H., Garrett, M., Mount, G., and Lynar, T. “Are organisations ready for AI security compliance: a cross-sector survey.” Submitted to Proceedings of The 12th International Conference on ICT for Smart Society (ICISS) 2025.
 
 ### Musa Phiri
 
@@ -39,7 +54,8 @@ Mulenga, M., Phiri, M., & Simukonda, L. (2023). Feature Enhancement and Chaining
 
 ### Hassan Wasswa
 Hassan Wasswa is a Ph.D. candidate in Cybersecurity at the University of New South Wales, Canberra, Australia. He holds a B.Sc. in Computer Science from Kyambogo University, Uganda, and an M.Sc. from the University of Malaya, Malaysia. He has held academic roles at the International University of East Africa and the Islamic University in Uganda, and was a research fellow at Texas Tech University, USA, from 2020 to 2022. He has also worked as an AI research consultant at ICT Skills Development Center Ltd in Kampala. His research interests include IoT security, representation learning, image processing, pattern recognition, computer vision, natural language understanding, and information security.
-Selected publications
+
+#### Selected publications
 
 Wasswa Hassan, Hussein A. Abbass, and Timothy Lynar. "ResDNViT: A hybrid architecture for Netflow-based attack detection using a residual dense network and Vision Transformer." Expert Systems with Applications (2025): 127504, doi: 10.1016/j.eswa.2025.127504, url: https://www.sciencedirect.com/science/article/pii/S0957417425011261
 Wasswa Hassan, Tim Lynar, and Hussein Abbass. "Enhancing iot-botnet detection using variational auto-encoder and cost-sensitive learning: A deep learning approach for imbalanced datasets." In 2023 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2023, doi: 10.1109/TENSYMP55890.2023.10223613, url: https://ieeexplore.ieee.org/document/10223613
