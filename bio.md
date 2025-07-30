@@ -8,3 +8,10 @@ His current research interests include:
 The application of machine learning to cyber security and the application of the epidemiological approach to cyber security. 
 
 
+[Google Scholar](https://scholar.google.com.au/citations?user=WnomXK8AAAAJ)
+
+[Patents](https://patents.justia.com/inventor/timothy-m-lynar)
+
+[ORCiD](https://orcid.org/0000-0001-7934-5658)
+
+
