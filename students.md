@@ -1,5 +1,14 @@
 # Current research students. 
 
+
+### Jasmin Craufurd-Hill 
+Jasmin is a postgraduate lecturer and Certified Nuclear Security Professional, with Specialisations in STEM and cybersecurity. She has two decades of professional and training experience in secure instrumentation and computer modelling, including as an instructor at the Navy Engineering Training Unit, a consultant on LAND3025 and leading the team responsible for commissioning the control computer, safety systems and human-machine interfaces for the OPAL nuclear research reactor. 
+
+She is a Fellow of the Institute of Managers and Leaders, a past recipient of an Early Career Fellowship from the Australian Academy of Technology and Engineering (ATSE) and holds an appointment as the inaugural Future Technology Fellow at the Centre for Defence Research at the Australian Defence College. 
+
+Jasmin holds a Bachelor of Science (Physics), a Graduate Certificate in Intelligence Analysis, MBA, a Master of International Relations and a Master of Applied Cybernetics. She is currently a PhD candidate at UNSW Canberra, where she is pursuing research on the application of epidemiology to cybersecurity. 
+ 
+
 ### Harriet Farlow 
 Harriet Farlow is the CEO and Founder of Mileva Security Labs. With a decade of experience at the intersection of AI and cyber security, Harriet is a recognised leader in her field.
 Harriet's journey began at Deloitte Australia, where she specialised in Defence portfolio projects as a Senior Consultant. Her career also spans roles as a Data Scientist at the University of Sydney and as Senior Delivery Lead at a tech education start-up in New York City. She returned to Canberra to work for the Australian Government, where she served at the intersection of data science, cyber security, and national security, eventually becoming an acting Tech Director.
@@ -66,4 +75,4 @@ Nanyonga, Aziida, Hassan Wasswa, Oleksandra Molloy, Ugur Turhan, and Graham Wild
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Topic modeling analysis of aviation accident reports: A comparative study between LDA and NMF models." 2023 3rd International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON). IEEE, 2023, doi: 10.1109/SMARTGENCON60755.2023.10442471, url: https://ieeexplore.ieee.org/abstract/document/10442471
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Comparative Study of Deep Learning Architectures for Textual Damage Level Classification." 2024 11th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2024, doi: 10.1109/SPIN60856.2024.10511727, url: https://ieeexplore.ieee.org/abstract/document/10511727
 
-
+### Ryan
