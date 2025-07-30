@@ -73,6 +73,7 @@ Casqueiro Gustavo, Sayed Erfan Arefin, Tasnia Ashrafi Heya, Abdul Serwadda, and 
 Nanyonga, Aziida, Hassan Wasswa, Oleksandra Molloy, Ugur Turhan, and Graham Wild. "Natural language processing and deep learning models to classify phase of flight in aviation safety occurrences." In 2023 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2023, doi: 10.1109/TENSYMP55890.2023.10223666, url: https://ieeexplore.ieee.org/abstract/document/10223666 (Best paper award runner up)
 
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Topic modeling analysis of aviation accident reports: A comparative study between LDA and NMF models." 2023 3rd International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON). IEEE, 2023, doi: 10.1109/SMARTGENCON60755.2023.10442471, url: https://ieeexplore.ieee.org/abstract/document/10442471
+
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Comparative Study of Deep Learning Architectures for Textual Damage Level Classification." 2024 11th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2024, doi: 10.1109/SPIN60856.2024.10511727, url: https://ieeexplore.ieee.org/abstract/document/10511727
 
 ### Ryan
