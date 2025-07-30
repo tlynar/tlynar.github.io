@@ -1,11 +1,13 @@
-# Biography 
+# Biography - Timothy Lynar
 
-Timothy is a researcher and practitioner in Cyber security and Computer Science, with a passion for innovation. I have a strong record in development, research, and innovation. With proven experience in research and development with a specialised focus in Cyber security, IoT, modelling, resource allocation, simulation, and high-performance distributed computing; combined with exceptional experience in networking, and systems administration. I possess a diverse breadth of industry experience with both local and world-leading institutions, reinforced with sophisticated technical knowledge of both existing and emerging trends and concepts. 
+I completed a PhD in energy conservation in distributed computing in 2011. From 2011 - 2019  I worked at IBM research as a research staff member and master inventor. There I worked on a huge breadth of projects in areas including: Machine learning, HPC resource allocation, weather modelling, psylid spread modelling, and cyber security. I also produced a fair amount of IP and lead the intellectual property development team for the lab in my capacity as an IBM Master Inventor. 
+
+I am currently a Senior lecturer and Program coordinator for the Masters of Cyber Security) at UNSW @ ADFA. 
+
+I have a strong record in development, research, and innovation. With proven experience in research and development with a specialised focus in Cyber security, modelling, resource allocation, simulation, and high-performance distributed computing; combined with experience in networking, and systems administration. 
 
   
-His current research interests include: 
-
-The application of machine learning to cyber security and the application of the epidemiological approach to cyber security. 
+Explore my current research interests and publications via my google scholar: 
 
 
 [Google Scholar](https://scholar.google.com.au/citations?user=WnomXK8AAAAJ)
@@ -15,3 +17,4 @@ The application of machine learning to cyber security and the application of the
 [ORCiD](https://orcid.org/0000-0001-7934-5658)
 
 
+There are PhD scholarships available at my school, if you are interested in doing a PhD in my field, feel free to reach out. 
