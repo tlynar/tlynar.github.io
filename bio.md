@@ -16,5 +16,6 @@ Explore my current research interests and publications via my google scholar:
 
 [ORCiD](https://orcid.org/0000-0001-7934-5658)
 
+[UNSW profile](https://www.unsw.edu.au/staff/tim-lynar)
 
 There are PhD scholarships available at my school, if you are interested in doing a PhD in my field, feel free to reach out. 
