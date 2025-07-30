@@ -1,3 +1,5 @@
+# Current research students. 
+
 ### Harriet Farlow 
 Harriet Farlow is the CEO and Founder of Mileva Security Labs. With a decade of experience at the intersection of AI and cyber security, Harriet is a recognised leader in her field.
 Harriet's journey began at Deloitte Australia, where she specialised in Defence portfolio projects as a Senior Consultant. Her career also spans roles as a Data Scientist at the University of Sydney and as Senior Delivery Lead at a tech education start-up in New York City. She returned to Canberra to work for the Australian Government, where she served at the intersection of data science, cyber security, and national security, eventually becoming an acting Tech Director.
@@ -8,10 +10,15 @@ She is also a passionate communicator, as the host of The AI Security Podcast, t
 #### Publications:
  
 Farlow, Harriet and Edwards, Belinda. "Shining a Light on Encryption Laws." Computer Law & Security Review, vol. 47, 2022, 101693. ScienceDirect, https://doi.org/10.1016/j.clsr.2022.101693.
+
 Farlow, H., Garrett, M., Mount, G., and Lynar, T. "The Race to Robustness: Exploiting Fragile Models for Urban Camouflage and the Imperative for Machine Learning Security." Proceedings of the IEEE Region 10 Symposium, IEEE, 2023. https://doi.org/10.1109/10223620
+
 Farlow, H., Garrett, M., Mount, G., and Lynar, T. "Memes in the Machine: Ideological Propagation in Large Language Models." Proceedings of the 15th IEEE International Conference on Cognitive Infocommunications (CogInfoCom), 2024. http://dx.doi.org/10.1109/CogInfoCom63007.2024.10894714
+
 Farlow, H., Sadhani, T., Garrett, M., Mount, G., and Lynar, T. "Deceive, Disrupt, Disclose: The 3D Model for AI Security." Proceedings of the 18th International Conference on Information Technology and Applications (ICITA), 2024. https://link.springer.com/chapter/10.1007/978-981-96-1758-6_36
+
 Farlow, H., Garrett, M., Mount, G., and Lynar, T. "Beyond Words: Memetic Theory as a Lens to Expose Ideological Bias in Language Models." Proceedings of the International Conference on Soft Computing & Machine Intelligence (ISCMI), 2024. DOI: 10.1109/ISCMI63661.2024.10851522
+
 Farlow, H., Garrett, M., Mount, G., and Lynar, T. “Are organisations ready for AI security compliance: a cross-sector survey.” Submitted to Proceedings of The 12th International Conference on ICT for Smart Society (ICISS) 2025.
 
 ### Musa Phiri
@@ -21,23 +28,6 @@ Musa Phiri is a PhD candidate in Computer Science at UNSW Canberra, specializing
 Musa holds a Master of Science in Data Science and Big Data from Mulungushi University, where his dissertation explored deep hybrid learning models for photovoltaic solar tracking systems, and a Master of Science in Project Management from the University of Zambia, focusing on forecasting methodologies for construction projects. Hw also completed my Bachelor of Science in Statistics at Mulungushi University.
 
 Musa's research experience spans predictive modeling, machine learning, and deep learning applications across NLP, renewable energy, and health domains. He has expertise in both supervised and unsupervised learning, as well as optimization techniques for AI models. His work has resulted in publications in high-impact journals including IEEE Access and Solar Energy, with particular recognition for my systematic literature review on deep learning techniques for solar tracking systems. Beyond research, Musa is passionate about applying AI-driven solutions to real-world challenges and contributing to advancements in deep learning methodologies. 
-
-#### Projects
-Hybrid Deep Learning for Solar Tracking Project | Github
-
-Implemented a deep learning algorithm for solar tracking
-Utilized real-world data from Girasol sky imaging and global solar irradiance repository
-Tabular-to-image-conversion-model-enhanced-solar-tracking Project | Github
-
-Contributed to the development of a model for sun position prediction from meteorological data by integrating tabular to image conversions, spatial feature extraction, and temporal dependencies
-Enhanced solar tracking through multi-based data normalization project | Github
-
-Investigated the use of hybrid deep learning techniques to improve solar tracking for PV solar panels
-The project explored the combination of feature extension using data normalization and feature extraction techniques to enhance solar tracking
-Periodontitis classification project | Github
-
-Successfully implemented a MobileNetV2-based deep learning model for the automatic classification of periodontal and non-periodontal dental panoramic radiographs
-Conducted a comparative analysis against existing CNN-based periodontitis classification models to demonstrate the superior efficiency and speed of the MobileNet V2 model, contributing to advancements in dental image analysis
 
 #### Published Peer-Reviewed Journal Articles
 Mulenga, M., Phiri, M., Simukonda, L., & Alaba F. A. (2023). A Multistage Hybrid Deep Learning Model for Enhanced Solar Tracking. IEEE Access, 11, 129449–129466.
@@ -58,13 +48,21 @@ Hassan Wasswa is a Ph.D. candidate in Cybersecurity at the University of New Sou
 #### Selected publications
 
 Wasswa Hassan, Hussein A. Abbass, and Timothy Lynar. "ResDNViT: A hybrid architecture for Netflow-based attack detection using a residual dense network and Vision Transformer." Expert Systems with Applications (2025): 127504, doi: 10.1016/j.eswa.2025.127504, url: https://www.sciencedirect.com/science/article/pii/S0957417425011261
+
 Wasswa Hassan, Tim Lynar, and Hussein Abbass. "Enhancing iot-botnet detection using variational auto-encoder and cost-sensitive learning: A deep learning approach for imbalanced datasets." In 2023 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2023, doi: 10.1109/TENSYMP55890.2023.10223613, url: https://ieeexplore.ieee.org/document/10223613
+
 Wasswa Hassan, Tim Lynar, Aziida Nanyonga, and Hussein Abbass. "IoT Botnet Detection: Application of Vision Transformer to Classification of Network Flow Traffic." In 2023 Global Conference on Information Technologies and Communications (GCITC), pp. 1-6. IEEE, 2023, doi: 10.1109/GCITC60406.2023.10426522, url: https://ieeexplore.ieee.org/abstract/document/10426522
+
 Nanyonga, Aziida, Hassan Wasswa, Keith Joiner, Ugur Turhan, and Graham Wild. "Explainable Supervised Learning Models for Aviation Predictions in Australia." Aerospace 12, no. 3 (2025): 223, doi: 10.3390/aerospace12030223, url: https://www.mdpi.com/2226-4310/12/3/223
+
 Nanyonga, Aziida, Hassan Wasswa, Keith Joiner, Ugur Turhan, and Graham Wild. "A Multi-Head Attention-Based Transformer Model for Predicting Causes in Aviation Incidents." Modelling 6, no. 2 (2025): 27, doi: 10.3390/modelling6020027, url: https://www.mdpi.com/2673-3951/6/2/27
+
 Wasswa Hassan, and Abdul Serwadda. "The proof is in the glare: On the privacy risk posed by eyeglasses in video calls." Proceedings of the 2022 ACM on International Workshop on Security and Privacy Analytics. 2022, doi: 10.1145/3510548.3519378, url: https://dl.acm.org/doi/abs/10.1145/3510548.3519378
+
 Casqueiro Gustavo, Sayed Erfan Arefin, Tasnia Ashrafi Heya, Abdul Serwadda, and Hassan Wasswa. "Weaponizing iot sensors: When table choice poses a security vulnerability." In 2022 IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA), pp. 160-167. IEEE, 2022, doi: 10.1109/TPS-ISA56441.2022.00029, url: https://ieeexplore.ieee.org/abstract/document/10063566
+
 Nanyonga, Aziida, Hassan Wasswa, Oleksandra Molloy, Ugur Turhan, and Graham Wild. "Natural language processing and deep learning models to classify phase of flight in aviation safety occurrences." In 2023 IEEE Region 10 Symposium (TENSYMP), pp. 1-6. IEEE, 2023, doi: 10.1109/TENSYMP55890.2023.10223666, url: https://ieeexplore.ieee.org/abstract/document/10223666 (Best paper award runner up)
+
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Topic modeling analysis of aviation accident reports: A comparative study between LDA and NMF models." 2023 3rd International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON). IEEE, 2023, doi: 10.1109/SMARTGENCON60755.2023.10442471, url: https://ieeexplore.ieee.org/abstract/document/10442471
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Comparative Study of Deep Learning Architectures for Textual Damage Level Classification." 2024 11th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2024, doi: 10.1109/SPIN60856.2024.10511727, url: https://ieeexplore.ieee.org/abstract/document/10511727
 
