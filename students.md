@@ -1,5 +1,24 @@
 # Current research students. 
 
+### Jessemyn Modini
+
+![Jess photo](https://tlynar.github.io/img/jess-bio.jpeg)
+
+
+Jess is an experienced technology leader, academic and security researcher, global keynote speaker, inventor and advisory board member. Jess is currently the Head of Product at a start up that is in stealth and will be launched in 2025. Prior, she has held senior positions at Amazon Web Services and the Australian Cyber Security Centre, and the Australian Department of Defence.
+
+Jess holds 5 Master’s qualifications in Cybersecurity Operations, Systems Engineering, Space Operations, Project Management and International Relations (Security). Jess is currently undertaking a Doctorate in Cyber Security, focussing on applications of epidemiology to cyber security (Cyber Epidemiology) for threat modelling and cyber herd immunity at scale. Jess’s research explores computational biological approaches to threat modelling and  cyber threat intelligence sharing. Jess is collaborating on international research projects with the Institute of Information Science Academia Sinica, applying Artificial Intelligence for the detection of Advanced Persistent Threats (APTs).
+
+Jess has presented global thought leadership on Cyber Threat Intelligence at industry events and conferences, including AISA CyberCon and global conferences including AWS re:Inforce and re:Invent which attract an audience of over 60,000 people. Jess is also CTO of the Australasian Society for Computers and Law (AUSCL) - a leading think-tank advancing education and advocacy at the intersection of technology, law and society.
+
+Research Interests:
+
+Jess's research centres on the novel application of epidemiological models to cybersecurity, developing cyber epidemiology frameworks that enable threat modelling and cyber herd immunity at scale. Her work bridges computational biology and cybersecurity through innovative approaches to threat intelligence sharing and analysis. She is particularly interested in advancing artificial intelligence applications for Advanced Persistent Threat detection and developing scalable models for information sharing and analysis centres.
+
+Research collaboration opportunities:
+
+Jess actively seeks collaborative opportunities with researchers working at the intersection of public health modelling and cybersecurity, computational social science applications to cyber resilience, and interdisciplinary approaches to critical infrastructure protection. She is especially keen to collaborate on projects that apply complex systems theory to cybersecurity challenges, explore the socio-technical aspects of cyber herd immunity, and develop predictive models for cyber threat propagation across interconnected systems.
+
 
 ### Jasmin Craufurd-Hill 
 Jasmin is a postgraduate lecturer and Certified Nuclear Security Professional, with Specialisations in STEM and cybersecurity. She has two decades of professional and training experience in secure instrumentation and computer modelling, including as an instructor at the Navy Engineering Training Unit, a consultant on LAND3025 and leading the team responsible for commissioning the control computer, safety systems and human-machine interfaces for the OPAL nuclear research reactor. 
@@ -10,6 +29,8 @@ Jasmin holds a Bachelor of Science (Physics), a Graduate Certificate in Intellig
  
 
 ### Harriet Farlow 
+![harriet photo](https://tlynar.github.io/img/harriet-bio.jpeg)
+
 Harriet Farlow is the CEO and Founder of Mileva Security Labs. With a decade of experience at the intersection of AI and cyber security, Harriet is a recognised leader in her field.
 Harriet's journey began at Deloitte Australia, where she specialised in Defence portfolio projects as a Senior Consultant. Her career also spans roles as a Data Scientist at the University of Sydney and as Senior Delivery Lead at a tech education start-up in New York City. She returned to Canberra to work for the Australian Government, where she served at the intersection of data science, cyber security, and national security, eventually becoming an acting Tech Director.
 She holds a degree in Physics and Bio-anthropology, along with a Master's in Cyber Security. In 2021 she commenced a PhD in Machine Learning Security. This is where she encountered AI Security and adversarial machine learning for the first time.
@@ -32,6 +53,8 @@ Farlow, H., Garrett, M., Mount, G., and Lynar, T. “Are organisations ready for
 
 ### Musa Phiri
 
+![bio photo](https://tlynar.github.io/img/musa-bio.jpg)
+
 Musa Phiri is a PhD candidate in Computer Science at UNSW Canberra, specializing in Deep Transfer Learning. My research focuses on developing a landscape-aware framework for automatic hyperparameter selection, leveraging landscape analysis and optimization techniques to enhance the efficiency and adaptability of transfer learning models.
 
 Musa holds a Master of Science in Data Science and Big Data from Mulungushi University, where his dissertation explored deep hybrid learning models for photovoltaic solar tracking systems, and a Master of Science in Project Management from the University of Zambia, focusing on forecasting methodologies for construction projects. Hw also completed my Bachelor of Science in Statistics at Mulungushi University.
@@ -52,6 +75,9 @@ Mulenga, M., Phiri, M., & Simukonda, L. (2023). Feature Enhancement and Chaining
 
 
 ### Hassan Wasswa
+
+![bio photo](https://tlynar.github.io/img/hassan-bio.jpg)
+
 Hassan Wasswa is a Ph.D. candidate in Cybersecurity at the University of New South Wales, Canberra, Australia. He holds a B.Sc. in Computer Science from Kyambogo University, Uganda, and an M.Sc. from the University of Malaya, Malaysia. He has held academic roles at the International University of East Africa and the Islamic University in Uganda, and was a research fellow at Texas Tech University, USA, from 2020 to 2022. He has also worked as an AI research consultant at ICT Skills Development Center Ltd in Kampala. His research interests include IoT security, representation learning, image processing, pattern recognition, computer vision, natural language understanding, and information security.
 
 #### Selected publications
@@ -76,4 +102,3 @@ Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Topic modeling analysis of av
 
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Comparative Study of Deep Learning Architectures for Textual Damage Level Classification." 2024 11th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2024, doi: 10.1109/SPIN60856.2024.10511727, url: https://ieeexplore.ieee.org/abstract/document/10511727
 
-### Ryan
