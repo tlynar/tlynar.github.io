@@ -1,6 +1,6 @@
 # Biography - Timothy Lynar
 
-![bio photo](img/tim-bio)
+![bio photo](https://tlynar.github.io/img/tim-bio.png)
 
 I completed a PhD in energy conservation in distributed computing in 2011. From 2011 - 2019  I worked at IBM research as a research staff member and master inventor. There I worked on a huge breadth of projects in areas including: machine learning, HPC resource allocation, weather modelling, psyllid spread modelling, and cyber security. I also produced a fair amount of IP and lead the intellectual property development team for the lab in my capacity as an IBM Master Inventor. 
 
