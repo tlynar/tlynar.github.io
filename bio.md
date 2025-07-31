@@ -8,7 +8,6 @@ I am currently a Senior lecturer and Program coordinator for the Masters of Cybe
 
 I have a strong record in development, research, and innovation. With proven experience in research and development with a specialised focus in Cyber security, modelling, resource allocation, simulation, and high-performance distributed computing; combined with experience in networking, and systems administration. 
 
-  
 Explore my current research interests and publications via my google scholar: 
 
 
