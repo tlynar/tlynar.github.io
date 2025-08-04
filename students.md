@@ -11,11 +11,11 @@ Jess holds 5 Master’s qualifications in Cybersecurity Operations, Systems Engi
 
 Jess has presented global thought leadership on Cyber Threat Intelligence at industry events and conferences, including AISA CyberCon and global conferences including AWS re:Inforce and re:Invent which attract an audience of over 60,000 people. Jess is also CTO of the Australasian Society for Computers and Law (AUSCL) - a leading think-tank advancing education and advocacy at the intersection of technology, law and society.
 
-Research Interests:
+#### Research Interests
 
 Jess's research centres on the novel application of epidemiological models to cybersecurity, developing cyber epidemiology frameworks that enable threat modelling and cyber herd immunity at scale. Her work bridges computational biology and cybersecurity through innovative approaches to threat intelligence sharing and analysis. She is particularly interested in advancing artificial intelligence applications for Advanced Persistent Threat detection and developing scalable models for information sharing and analysis centres.
 
-Research collaboration opportunities:
+#### Research collaboration opportunities:
 
 Jess actively seeks collaborative opportunities with researchers working at the intersection of public health modelling and cybersecurity, computational social science applications to cyber resilience, and interdisciplinary approaches to critical infrastructure protection. She is especially keen to collaborate on projects that apply complex systems theory to cybersecurity challenges, explore the socio-technical aspects of cyber herd immunity, and develop predictive models for cyber threat propagation across interconnected systems.
 
@@ -59,16 +59,18 @@ Musa Phiri is a PhD candidate in Computer Science at UNSW Canberra, specializing
 
 Musa holds a Master of Science in Data Science and Big Data from Mulungushi University, where his dissertation explored deep hybrid learning models for photovoltaic solar tracking systems, and a Master of Science in Project Management from the University of Zambia, focusing on forecasting methodologies for construction projects. Hw also completed my Bachelor of Science in Statistics at Mulungushi University.
 
+#### Research interests
+
 Musa's research experience spans predictive modeling, machine learning, and deep learning applications across NLP, renewable energy, and health domains. He has expertise in both supervised and unsupervised learning, as well as optimization techniques for AI models. His work has resulted in publications in high-impact journals including IEEE Access and Solar Energy, with particular recognition for my systematic literature review on deep learning techniques for solar tracking systems. Beyond research, Musa is passionate about applying AI-driven solutions to real-world challenges and contributing to advancements in deep learning methodologies. 
 
-#### Published Peer-Reviewed Journal Articles
+#### Publications
+
 Mulenga, M., Phiri, M., Simukonda, L., & Alaba F. A. (2023). A Multistage Hybrid Deep Learning Model for Enhanced Solar Tracking. IEEE Access, 11, 129449–129466.
 
 Phiri, M., Mulenga, M., Zimba, A., & Eke, C. I. (2023). Deep learning techniques for solar tracking systems: A systematic literature review, research challenges, and open research directions. Solar Energy, 262, 111803.
 
 Mukupa, G.M., Phiri, M., & Kunda, D. (2018). The Impact of Load Shedding on The Cost of Living: A Zambian Perspective. World Journal of Research and Review 6.
 
-#### Conference Presentations
 Phiri, M., Mulenga, M., Kunda, D., & Alaba, F. A. (2023). A Deep Hybrid Learning Model for Photovoltaic Solar Tracking Systems. Proceedings of International Conference for ICT (ICICT) - Zambia, 5(1), 53–58.
 
 Mulenga, M., Phiri, M., & Simukonda, L. (2023). Feature Enhancement and Chaining of Deep Neural Networks in Colorectal Cancer Classification Based on Gut-Microbiome Data. Proceedings of International Conference for ICT (ICICT) - Zambia, 5(1), 59–63.
@@ -80,7 +82,11 @@ Mulenga, M., Phiri, M., & Simukonda, L. (2023). Feature Enhancement and Chaining
 
 Hassan Wasswa is a Ph.D. candidate in Cybersecurity at the University of New South Wales, Canberra, Australia. He holds a B.Sc. in Computer Science from Kyambogo University, Uganda, and an M.Sc. from the University of Malaya, Malaysia. He has held academic roles at the International University of East Africa and the Islamic University in Uganda, and was a research fellow at Texas Tech University, USA, from 2020 to 2022. He has also worked as an AI research consultant at ICT Skills Development Center Ltd in Kampala. His research interests include IoT security, representation learning, image processing, pattern recognition, computer vision, natural language understanding, and information security.
 
-#### Selected publications
+#### Research Interests
+
+Hassan's research focuses on developing lightweight, efficient, and robust deep learning-based intrusion detection systems (IDS) tailored for the Internet of Things (IoT) environment. With the rapid growth of IoT devices and applications, legacy security solutions such as antivirus software and signature-based IDS have proven inadequate due to the constrained computational resources, memory limitations, and dynamic nature of IoT networks. The research addresses key challenges in IoT botnet detection, including class imbalance, high-dimensional traffic data, and frequent concept drifts. The proposed approach leverages low-dimensional latent space representations—extracted using models like the Variational Autoencoder (VAE) and Vision Transformer (ViT)—to enhance detection performance and efficiency. Additionally, the work incorporates data augmentation, cost-sensitive learning, and latent space alignment to mitigate data imbalance and adapt to evolving attack patterns. Finally, to ensure deployment feasibility on resource-limited IoT devices, the thesis explores model compression through quantization-aware training (QAT) and post-training quantization (PTQ), aiming to reduce storage and inference costs without compromising detection accuracy.
+
+#### Publications
 
 Wasswa Hassan, Hussein A. Abbass, and Timothy Lynar. "ResDNViT: A hybrid architecture for Netflow-based attack detection using a residual dense network and Vision Transformer." Expert Systems with Applications (2025): 127504, doi: 10.1016/j.eswa.2025.127504, url: https://www.sciencedirect.com/science/article/pii/S0957417425011261
 
@@ -123,10 +129,10 @@ Anirban has got 17+ years of experience working in Information Technology (IT) I
   * Researcher at the University of Melbourne 2019
   * PhD candidate at UNSW Canberra 2020-present
 
-#### Area of interest
+#### Research Interests
 Matt's primary area of research interest is in cybercrime and how the medium of the Internet can shape human behaviour. His Honours project in 2018 examined cyberstalking amongst university students and was followed in 2019 by research work on the experience of repeat victims of online romance scams. Matt's PhD project explores the contributions of victims, offenders and online protection mechanisms to the online investment fraud victimisation process. 
 
-#### Published work
+#### Publications
 Exploring the roles played by trust and technology in the online investment fraud victimisation process
 
 https://doi.org/10.1177/26338076241248176
