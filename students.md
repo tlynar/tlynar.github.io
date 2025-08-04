@@ -4,7 +4,7 @@
 
 ![Lisa photo](https://tlynar.github.io/img/lisa-bio.jpg)
 
-Lisa Liu-Thorrold received her Bachelor of Engineering (Honours) degree in Software Engineering from the University of Queensland, Australia in 2016. She has completed her Ph.D. degree at the University of New South Wales (UNSW), Canberra, Australia. Her specific research interests include generalization, interpretability, and bridging the gap between theoretical advancements in neural architectures and the operational requirements of real-world network security systems.
+Lisa Liu-Thorrold received her Bachelor of Engineering (Honours) degree in Software Engineering from the University of Queensland, Australia in 2016. She has almost completed her Ph.D. degree at the University of New South Wales (UNSW), Canberra, Australia. Her specific research interests include generalization, interpretability, and bridging the gap between theoretical advancements in neural architectures and the operational requirements of real-world network security systems.
 
 ### Jessemyn Modini
 
@@ -68,6 +68,8 @@ Musa holds a Master of Science in Data Science and Big Data from Mulungushi Univ
 #### Research interests
 
 Musa's research experience spans predictive modeling, machine learning, and deep learning applications across NLP, renewable energy, and health domains. He has expertise in both supervised and unsupervised learning, as well as optimization techniques for AI models. His work has resulted in publications in high-impact journals including IEEE Access and Solar Energy, with particular recognition for my systematic literature review on deep learning techniques for solar tracking systems. Beyond research, Musa is passionate about applying AI-driven solutions to real-world challenges and contributing to advancements in deep learning methodologies. 
+
+Musa's research focuses on adaptive training strategies for deep transfer learning, with an emphasis on using measurable signals to guide learning rate and optimization decisions. Specifically, I investigate how dataset similarity metrics and loss landscape characteristics, such as curvature, sharpness, and gradient dispersion, can be used to dynamically inform learning rate schedules during fine-tuning. My goal is to develop an integrated framework that detects and responds to distribution shifts between source and target domains, which are critical challenges in real-world deployment scenarios such as medical imaging, autonomous systems, and evolving visual recognition tasks. This involves analyzing how these shifts affect the geometry of the loss landscape, and whether that geometry can serve as a predictive signal for optimization sensitivity and generalization performance. By bridging the gap between theoretical understanding of optimization landscapes and practical training strategies, my work addresses a fundamental limitation in current transfer learning: the reliance on static, one-size-fits-all hyperparameter settings that fail to adapt to the underlying data characteristics. Ultimately, my research aims to enable smarter, more generalizable transfer learning systems that adapt in real-time to the data and learning environment, with the potential to significantly improve model robustness and reliability across diverse application domains.
 
 #### Publications
 
