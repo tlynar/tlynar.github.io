@@ -1,5 +1,11 @@
 # Current research students. 
 
+### Lisa Liu-Thorrold 
+
+![Lisa photo](https://tlynar.github.io/img/lisa-bio.jpg)
+
+Lisa Liu-Thorrold received her Bachelor of Engineering (Honours) degree in Software Engineering from the University of Queensland, Australia in 2016. She has completed her Ph.D. degree at the University of New South Wales (UNSW), Canberra, Australia. Her specific research interests include generalization, interpretability, and bridging the gap between theoretical advancements in neural architectures and the operational requirements of real-world network security systems.
+
 ### Jessemyn Modini
 
 ![Jess photo](https://tlynar.github.io/img/jess-bio.jpeg)
