@@ -102,3 +102,32 @@ Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Topic modeling analysis of av
 
 Nanyonga, Aziida, Hassan Wasswa, and Graham Wild. "Comparative Study of Deep Learning Architectures for Textual Damage Level Classification." 2024 11th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2024, doi: 10.1109/SPIN60856.2024.10511727, url: https://ieeexplore.ieee.org/abstract/document/10511727
 
+
+### Anirban Roy 
+
+![bio photo](https://tlynar.github.io/img/anirban-bio.jpg)
+
+Mr Anirban , is a PhD student in UNSW Canberra Space domain.
+
+Anirban’s research interests revolves around application of Foundation models, Multimodal learning coupled with Federated learning  in remote sensing domain. Anirban is also looking at applying the learning, for onboard processing of information in LEO satellites.
+
+Anirban has got 17+ years of experience working in Information Technology (IT) Industry across multiple geographies (UK, Europe and Australia). He is currently working as an IT Architect in a Federal Government Agency in Australia. Anirban has done is BTech in Electronics and Communications Engineering from West Bengal University of Technology, India. He has also done his Masters in Business Administration from the same University.
+
+### Matthew Anderson
+
+
+![bio photo](https://tlynar.github.io/img/anderson-bio.jpg)
+
+  * Undergraduate at Monash University 2015-2017
+  * 1st Class Honours in Criminology at Monash University 2018
+  * Researcher at the University of Melbourne 2019
+  * PhD candidate at UNSW Canberra 2020-present
+
+#### Area of interest
+Matt's primary area of research interest is in cybercrime and how the medium of the Internet can shape human behaviour. His Honours project in 2018 examined cyberstalking amongst university students and was followed in 2019 by research work on the experience of repeat victims of online romance scams. Matt's PhD project explores the contributions of victims, offenders and online protection mechanisms to the online investment fraud victimisation process. 
+
+#### Published work
+Exploring the roles played by trust and technology in the online investment fraud victimisation process
+
+https://doi.org/10.1177/26338076241248176
+
