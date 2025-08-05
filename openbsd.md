@@ -258,9 +258,12 @@ edit /etc/doas.conf and also add the following lines:
 This will let you mount stuff as a non root user and send arp wakeup packets. 
 
 # Some performance tweaks
-derived from https://www.c0ffee.net/blog/openbsd-on-a-laptop/
+derived from (https://www.c0ffee.net/blog/openbsd-on-a-laptop/)
 first add self to the staff group:
+
+```
 	usermod -G staff tim
+```
 
 edit /etc/login.conf
 
@@ -324,31 +327,6 @@ turn on apmd
 	rcctl set apmd flags -A -Z 2
 	rcctl start apmd
  
-
-# Doing an encrypted setup
-  
-  - during install drop to shell [s] then do the following:
-  - create a new partission 
-  	fdisk -iy -g -b 960 sd0
-  - create a encrypted softraid.  
-  bioctl -c C -l sd0a softraid0
-  - disklabel -E sd0
-
-```
-encrypted setup:
-	fdisk -iy wd0
-	disklabel -E w0
-	a, a
-	offset 1024
-	size 500117105
-	type RAID
-	w, q 
-```
-
-Once all the steps above are complete
-[pass]
-exit
-now the install project should continue. 
 
 
 # tmpfs
@@ -565,7 +543,7 @@ doas rm video
 doas ln -s video1 video 
 ```
 
-We now have a working system with no jerkyness or isses. 
+We now have a working system with no jerkyness or issues. 
 note if you delete the wrong thing you can run **/dev/MAKEDEV video** 
 and that might fix it.
 
@@ -578,17 +556,22 @@ hardware accelerated decode must be enabled in flags and the correct packages in
 ## Webcam issues. 
 The compressed stream is not a standard mjpeg stream. It is pix_fmt yuvj422p 
 
-If you try and use mjpeg with ffmpeg for the video stream you will see an error message like. video4linux2 mjpeg no Jpeg data found.
+If you try and use mjpeg with ffmpeg for the video stream you will see an error message like.
+
+```
+video4linux2 mjpeg no Jpeg data found.
+```
 
 but a raw stream is smooth and works. 
 
-This works:
-	video -s 800x480
+This works, because it is raw:
+	
+    ```
+    video -s 800x480
+    ```
 
-Note that turning off backlight compensation will make raw not jerky 
-Provided you are in good light...
+The trick is the pix_fmt is yuvj422p then it works fine. 
 
-	video backlight_compensation=0                                                 
 you can get smooth compressed video from the webcam:
 
 ```
@@ -606,7 +589,6 @@ The following works with compressed mjpeg fine:
 	ffplay -f v4l2 -input_format mjpeg -pix_fmt yuvj422p -video_size 1280x720 -i /dev/video0
 ```
 
-the trick is the pix_fmt is yuvj422p then it works fine. 
 
 We can get a smooth high res uncompressed image from the webcam.
 
@@ -615,11 +597,6 @@ in fact:
 
 works super well. 
 
-My current command of recording the web cam with audio is as follows: 
-
-```
-ffmpeg -f v4l2 -input_format mjpeg -pix_fmt yuvj422p -video_size 1280x720 -i /dev/video0 -f sndio -i snd/1 -c:v mpeg4 -b:v 2M -b:a 192k  -c:a aac  ~/video.mkv
-```
 
 ## Hacking the kernel to fix the video issue
 There are two things you could do to fix this issue 1) set the maximum size of the returned stream or 2) change the described pixel format
@@ -632,7 +609,9 @@ change this line which is about 2950.
 	fmtdesc->pixelformat = V4L2_PIX_FMT_YUV422P;
 
 Basically this makes it report the correct pixel format from the camera. 
-this is inside the ```uvideo_enum_fmt(void *v, struct v4l2_fmtdesc *fmtdesc)``` function
+this is inside the 
+```uvideo_enum_fmt(void *v, struct v4l2_fmtdesc *fmtdesc)```
+function
 
 
 # Backup
