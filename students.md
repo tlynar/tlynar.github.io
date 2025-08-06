@@ -27,6 +27,7 @@ Jess actively seeks collaborative opportunities with researchers working at the 
 
 
 ### Jasmin Craufurd-Hill 
+
 ![Jasmin photo](https://tlynar.github.io/img/jasmin-bio.jpg)
 
 Jasmin is a postgraduate lecturer and Certified Nuclear Security Professional, with Specialisations in STEM and cybersecurity. She has two decades of professional and training experience in secure instrumentation and computer modelling, including as an instructor at the Navy Engineering Training Unit, a consultant on LAND3025 and leading the team responsible for commissioning the control computer, safety systems and human-machine interfaces for the OPAL nuclear research reactor. 
