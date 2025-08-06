@@ -27,11 +27,13 @@ Jess actively seeks collaborative opportunities with researchers working at the 
 
 
 ### Jasmin Craufurd-Hill 
+![Jasmin photo](https://tlynar.github.io/img/jasmin-bio.jpg)
+
 Jasmin is a postgraduate lecturer and Certified Nuclear Security Professional, with Specialisations in STEM and cybersecurity. She has two decades of professional and training experience in secure instrumentation and computer modelling, including as an instructor at the Navy Engineering Training Unit, a consultant on LAND3025 and leading the team responsible for commissioning the control computer, safety systems and human-machine interfaces for the OPAL nuclear research reactor. 
 
-She is a Fellow of the Institute of Managers and Leaders, a past recipient of an Early Career Fellowship from the Australian Academy of Technology and Engineering (ATSE) and holds an appointment as the inaugural Future Technology Fellow at the Centre for Defence Research at the Australian Defence College. 
+Jasmin is the inaugural Future Technology Fellow at the Centre for Defence Research, a Fellow of the Institute of Managers and Leaders and a Member of the Most Venerable Order of the Hospital of Saint John of Jerusalem.
 
-Jasmin holds a Bachelor of Science (Physics), a Graduate Certificate in Intelligence Analysis, MBA, a Master of International Relations and a Master of Applied Cybernetics. She is currently a PhD candidate at UNSW Canberra, where she is pursuing research on the application of epidemiology to cybersecurity. 
+Jasmin holds a Bachelor of Science (Physics), a Graduate Certificate in Intelligence Analysis, MBA, a Master of International Relations and a Master of Applied Cybernetics with Commendation from the Australian National University. She is currently a PhD candidate at UNSW Canberra, where she is pursuing research on the application of epidemiology to cybersecurity. 
  
 
 ### Harriet Farlow 
