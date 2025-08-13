@@ -6,6 +6,35 @@
 
 Lisa Liu-Thorrold received her Bachelor of Engineering (Honours) degree in Software Engineering from the University of Queensland, Australia in 2016. She has almost completed her Ph.D. degree at the University of New South Wales (UNSW), Canberra, Australia. Her specific research interests include generalization, interpretability, and bridging the gap between theoretical advancements in neural architectures and the operational requirements of real-world network security systems.
 
+
+L. Liu, D. Essam and T. Lynar, “Complexity Measure of IoT Traffic”, in IEEE
+Internet of Things Journal, vol 9, no. 24, pp. 25715-2573, Dec. 2022,
+doi: 510.1109/LCN52139.2021.9525007
+
+ 
+Y. Huang, L. Liu, Y. Guo, G.Wong, T. Lynar, and M. Chen “Behavior-Obfuscation
+Resilient Dynamic Analysis for Windows Malware Technique Discovery”, in ACM
+Transactions on Privacy and Security, under review.1
+
+ 
+L. Liu, D. Essam and T. Lynar, “On Quantifying the Complexity of IoT Traffic”, in
+Proceedings of the IEEE 46th Conference on Local Computer Networks (LCN 2021),
+Edmonton, Canada (Virtual), 2021, pp. 379-382, doi: 10.1109/LCN52139.2021.9525007
+
+ 
+G. Engelen, R. Flood, L. Liu, V. Rimmer, H. Clausen, D. Aspinall, and W. Joosen,
+“Pillars of Sand: The current state of Datasets in the field of Network Intrusion
+Detection,” presented as a poster in 7th IEEE European Symposium on Security and
+Privacy (Euro S&P 2022), 2022, doi: 10.5281/zenodo.7068716
+
+ 
+L. Liu, G.Engelen, T. Lynar, D. Essam, W. Joosen “Error Prevalence in NIDS
+datasets: A Case Study on CIC-IDS-2017 and CSE-CIC-IDS-2018”, in Proceedings
+of 2022 IEEE Conference on Communications and Network Security (CNS 2022),
+Austin, Texas, USA, 2022, pp. 254-262, doi: 10.1109/CNS56114.2022.9947235
+ 
+Lisa studied quantification of model tolerance to distributional shift and developed new methods to increase model tolerance. 
+ 
 ### Jessemyn Modini
 
 ![Jess photo](https://tlynar.github.io/img/jess-bio.jpeg)
